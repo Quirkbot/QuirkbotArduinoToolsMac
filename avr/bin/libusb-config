@@ -1,6 +1,6 @@
 #!/bin/sh
 
-prefix=/Users/jenkins/jenkins/workspace/toolchain-avr-3.4.5-new-mac32/objdir
+prefix=/Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir
 exec_prefix=${prefix}
 includedir=${prefix}/include
 libdir=${exec_prefix}/lib

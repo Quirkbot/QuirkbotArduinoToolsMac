@@ -53,7 +53,7 @@ if [ x$1 != x ] ; then
   prefix=$1
   shift
 else
-  prefix=/Users/jenkins/jenkins/workspace/toolchain-avr-3.4.5-new-mac32/objdir
+  prefix=/Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir
 fi
 
 # Allow for alternate isysroot in which to find headers

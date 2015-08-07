@@ -17,7 +17,7 @@ old_library='libusb.a'
 inherited_linker_flags=' '
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/Users/jenkins/jenkins/workspace/toolchain-avr-3.4.5-new-mac32/objdir/lib /Users/jenkins/jenkins/workspace/toolchain-avr-3.4.5-new-mac32/objdir/lib/libusb-1.0.la -lobjc'
+dependency_libs=' -L/Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir/lib /Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir/lib/libusb-1.0.la -lobjc'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/Users/jenkins/jenkins/workspace/toolchain-avr-3.4.5-new-mac32/objdir/lib'
+libdir='/Users/jenkins/jenkins/workspace/toolchain-avr-mac32/objdir/lib'
